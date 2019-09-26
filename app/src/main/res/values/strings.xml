@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">G7t1120192</string>
+    <string name="Nombre">Brian Artemio</string>
+    <string name="Apellidos">Martinez Ramirez</string>
+    <string name="Matricula">167010036</string>
+    <string name="Grupo">7T11</string>
+    <string name="Profesor">Victor Hugo de la O Martinez</string>
+    <string name="Materia">Desarrollo de Aplicaciones</string>
+    <string name="Materia2">Para Dispositivos Moviles</string>
+</resources>
